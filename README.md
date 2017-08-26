@@ -9,5 +9,7 @@ Only the traning script is provided here.
 Procedure:
 
 1 Prepare you data in the form of mat format.
+
 2 Use this script to train NN. The result will be saved in mat format.
+
 3 In enhancement stage, just do what [1] did. 
