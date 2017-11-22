@@ -1,12 +1,12 @@
 # DNN-SpeechEnhancement
 
-## Use TensorFlow to realize a DNN-based speech enhancement system, which refers to the paper below: 
+Use TensorFlow to realize a DNN-based speech enhancement system, which refers to the paper below: 
 
 [1] Xu Y, Du J, Dai L R, et al. A regression approach to speech enhancement based on deep neural networks[J]. IEEE/ACM Transactions on Audio Speech & Language Processing, 2015, 23(1):7-19.
 
 ***
 
-## Only the traning script is provided here.
+Only the traning script is provided here.
 
 ## Procedure:
 
